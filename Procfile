@@ -1,0 +1,1 @@
+gunicorn hiring_project.wsgi --log-file -
